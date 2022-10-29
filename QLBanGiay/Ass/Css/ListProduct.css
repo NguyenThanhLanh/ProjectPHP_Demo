@@ -1,0 +1,11 @@
+#List_Product{
+    flex: 6;
+}
+
+#List_Product img{
+    width: 150px;
+}
+
+th{
+    text-align: center;
+}

@@ -1,0 +1,48 @@
+/* Sider Bar */
+#SiderBar_Custom{
+    background-color: yellowgreen;
+    width: 220px;
+    color: bisque;
+    min-height: 600px;
+    flex: 1;
+}
+li.Member_item {
+    width: 100%;
+    height: 45px;
+    background: yellowgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: bisque;
+    border-bottom: 1px solid #ccc;
+}
+li.Member_item a{
+    color: bisque;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.SiderBar_Custom__Header{
+    text-align: center;
+    padding: 4px;
+    height: 55px;
+    border-bottom: 1px solid #ccc;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.listMember_item{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.Member_item{
+    display: block;
+    
+}
+

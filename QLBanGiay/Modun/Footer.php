@@ -1,0 +1,3 @@
+<div id="footer" class="bg-secondary d-flex justify-content-center text-white" style="height: 35px;">
+    <p class="text-center" style="line-height: 35px;">Design by &copy; <a class="text-white" href="#">Nguyễn Thành Lãnh</a> 2022 | Thành viên nhóm: <a href="http://www.edg3.co.uk/" class="text-white"> </a> | Sponsored by <a href="http://www.opendesigns.org/" class="text-white">Open Designs</a> | Valid <a href="http://jigsaw.w3.org/css-validator/" class="text-white">CSS</a> &amp; <a href="http://validator.w3.org/" class="text-white">XHTML</a></p>
+</div>
